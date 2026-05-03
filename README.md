@@ -82,21 +82,20 @@ Streamlit UI (User Interface)
 
 ai-sales-copilot/
 
-ai-sales-copilot/
+│── app.py
+│── requirements.txt
+│── .gitignore
 
-├── app.py
-├── requirements.txt
-├── .gitignore
-│
 ├── backend/
+ 
 │ ├── analyzer.py
 │ ├── scorer.py
 │ ├── rag.py
 │ ├── orchestrator.py
 │ └── llm.py
-│
-└── data/
-└── company.txt
+
+├── data/
+│ └── company.txt
 
 ---
 
