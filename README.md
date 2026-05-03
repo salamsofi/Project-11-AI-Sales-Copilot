@@ -100,8 +100,8 @@ ai-sales-copilot/
 
 ## ⚙️ Setup & Installation
 
-1. Clone the repository
 ```bash
+1. Clone the repository
 git clone https://github.com/salamsofi/ai-sales-copilot.git
 cd ai-sales-copilot
 
