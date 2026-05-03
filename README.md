@@ -81,22 +81,20 @@ Streamlit UI (User Interface)
 ## 📁 Project Structure
 
 ai-sales-copilot/
+    - app.py
+    - requirements.txt
+    - .gitignore
 
-│── app.py
-│── requirements.txt
-│── .gitignore
-
-├── backend/
- 
-│ ├── analyzer.py
-│ ├── scorer.py
-│ ├── rag.py
-│ ├── orchestrator.py
-│ └── llm.py
-
-├── data/
-│ └── company.txt
-
+    - backend/
+        - analyzer.py
+        - scorer.py
+        - rag.py
+        - orchestrator.py
+        - llm.py
+        
+    - data
+        - company.txt
+        
 ---
 
 ## ⚙️ Setup & Installation
