@@ -81,6 +81,7 @@ Streamlit UI (User Interface)
 ## 📁 Project Structure
 
 ai-sales-copilot/
+
 │── app.py
 │── requirements.txt
 │── .gitignore
